@@ -9,7 +9,7 @@ img.src = src;
 };
 
 let imagePath=(frameNumber,animation)=>{
-    return "/project/images/"+animation+"/"+frameNumber+".png";
+    return "images/"+animation+"/"+frameNumber+".png";
 };
 
 let frames = {
